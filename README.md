@@ -39,3 +39,49 @@ provider
 - A benefit is avoiding the cost and space required to own and 
 maintain computing infrastructure. They can instead just pay cloud 
 services for what they use, when they use it
+
+## SAAS, PAAS, IAAS
+
+### SAAS
+
+- Software as a service - SaaS utilises the internet to deliver 
+applications which are managed by a third-party vendor
+- SaaS eliminates the need to have IT staff download and install 
+applications on each individual computer
+- typically used for short-term projects that require quick, easy, and 
+affordable collaboration, applications that aren't needed that often, 
+and applications that need both web and mobile access
+
+### PAAS
+
+- Platform as a service - PaaS provides cloud components to certain 
+software while being used mainly for applications. it delivers a 
+framework for developers that they can build upon and use to create 
+customised applications
+- PaaS is useful when multiple developers are working on the same 
+development project because it can streamline workflows
+
+### IAAS
+
+- Infrastructure as a service - IaaS is made up of highly scalable and 
+automated computer resources, and allows businesses to purchase 
+resources on-demand and as-needed instead of having to buy hardware
+- IaaS is useful for startups and small companies that who might want to 
+avoid spending time and money on purchasing aand creating 
+hardware/software. also useful for companinies experiencing rapid growth 
+because of its scalability
+
+## On-prem/localhost
+
+- On-prem ie on premises, referes to the software and technology that is 
+located within the physical cofines of an enterprise
+- localhost is a hostname used to refer to the current computer being 
+used to access network services
+
+## Public and hybrid clouds
+
+- public cloud is cloud computing that's devlivered through the 
+internetand shared across organisations (unlike private cllouds ie 
+on-prem that to which only the localhost has access)
+- Hybrid cloud is any environment that used both public and private 
+clouds depending on the needs and tasks at hand
